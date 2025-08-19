@@ -1,0 +1,19 @@
+body{
+  padding: 25px;
+  background-color: lightgreen;
+}
+.title {
+	color: #5C6AC4;
+}
+.table{
+  background-color: pink;
+  
+}
+*{
+  color:#e75480;
+}
+}
+.hex-example {
+            background-color: yellow; /* Hexadecimal color */
+            border-color: #00FFFF;
+        }
