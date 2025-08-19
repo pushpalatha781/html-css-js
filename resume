@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Resume</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <article>
+      <div style = "text-align:center">
+      PARUCHURI RANGA PUSHPALATHA<br/>
+      Phone no : 7815832438<br/>
+      Gmail : paruchuriraangapushpalatha<br/>
+      Github : pushpalatha781<br/>
+      <h3 style = "text-align:center"> Web Developer and Designer</h3>
+      </div>
+    </article>
+    <section>
+      <table  class="hex-example">
+        <thead>
+        <tr border="1" width="100%" >
+          <th><h3> Education</h3> </th>
+          <th> <h3> projects</h3></th>
+          <th> <h3>skills</h3></th>
+          </tr>
+          </thead>
+          <tr>
+          <td>
+            <ul>
+            <li>Master of Computer Applications (MCA) – Pursuing<br/>
+            Vignan’s Lara Institute of Technology & Science<br/><br/>
+            </li>
+            <li>
+            Bachelor of Science (B.Sc.) Statistics – 2024<br/>
+           Sri Sai Chaitanya Degree College, Giddalur<br/> 
+           CGPA: 8.6<br/>
+           </li>
+           </ul>
+          </td>
+          <td>
+          <h5>Mini Project – Web-based Student Result Portal (Academic)</h5>
+              <ul>
+                <li>Built a simple portal using HTML, CSS, and JS.<br/>
+                 Implemented SQL database for result storage and retrieval.</li>
+              </ul>
+           </td>
+        <td>
+            <ul>
+             <li>Programming Langagues: Python , C<br/></li>
+             <li>
+               Web Development: HTML, CSS, JavaScript<br/>
+             </li>
+             <li>Databases: SQL (Basics)<br/></li>
+              <li>
+              Tools & Platforms: Visual Studio Code, Git/GitHub <br/></li>
+              </ul>
+            </td>
+          </tr>
+        </tr>
+      </table>
+    </section>
+
+      <script src="script.js"></script>
+      <section style = text-align:center>
+      <footer>
+         © [2025]All copyrights are reserved by pushpalatha
+      </footer>
+      </section>
+  </body>
+</html>
